@@ -1,2 +1,2 @@
 # JavaAwt
-Лаба из универа, выполнена немного коряво 
+Lab from the university.
